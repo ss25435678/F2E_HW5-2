@@ -1,0 +1,72 @@
+.one {
+    background: url("../img/2.jpg") center center;
+    height: 400px;
+}
+
+.two {
+    background: url("../img/3.jpg") center center;
+    height: 600px;
+}
+
+.three {
+    background: url("../img/4.jpg") center center;
+    height: 300px;
+}
+
+.four {
+    background: url("../img/5.jpg") center center;
+    height: 150px;
+}
+
+.five {
+    background: url("../img/6.jpg") center center;
+    height: 150px;
+}
+
+.six {
+    background: url("../img/7.jpg") center center;
+    height: 150px;
+}
+
+.seven {
+    background: url("../img/8.jpg") center center;
+    height: 150px;
+}
+
+.eight {
+    background: url("../img/9.jpg") center center;
+    height: 150px;
+}
+
+.nine {
+    background: url("../img/10.jpg") center center;
+    height: 300px;
+}
+
+
+.text-medium {
+    font-size: 1.2rem
+}
+
+.nav-item{
+    height: inherit;
+    padding: 16px 56px;
+    font-size: 18px;
+    font-weight: normal;
+    color: #333333;
+}
+#contact{
+  padding:0px 36px;
+}
+p{
+  text-align:center;
+}
+.bottom{
+  text-align:center;
+  color: #333333;
+}
+.follow{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
